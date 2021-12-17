@@ -1,7 +1,7 @@
 const variables = {
   greetings: {
     morning: "Happy Birthday",
-    day: "Good Day",
+    day: "Test",
     afternoon: "Good Afternoon",
     evening: "Good Evening",
     night: "Selamat Ulang Tahun",
