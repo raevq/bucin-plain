@@ -1,10 +1,10 @@
 const variables = {
   greetings: {
-    morning: "Good Morning",
+    morning: "Happy Birthday",
     day: "Good Day",
     afternoon: "Good Afternoon",
     evening: "Good Evening",
-    night: "Good Night",
+    night: "Selamat Ulang Tahun",
   },
   quotes: [
     { quote: "I'm sorry for loving you.", author: "standinhsd" },
